@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Devopensource_PortugalRegions>
+            <version>0.1.0</version>
+        </Devopensource_PortugalRegions>
+    </modules>
+    <global>
+        <models>
+            <devopenptregions>
+                <class>Devopensource_PortugalRegions_Model</class>
+                <resourceModel>devopenptregions_resource</resourceModel>
+            </devopenptregions>
+            <devopenptregions_resource>
+                <class>Devopensource_PortugalRegions_Model_Resource</class>
+            </devopenptregions_resource>
+        </models>
+        <blocks>
+            <devopenptregions>
+                <class>Devopensource_PortugalRegions_Block</class>
+            </devopenptregions>
+        </blocks>
+        <helpers>
+            <devopenptregions>
+                <class>Devopensource_PortugalRegions_Helper</class>
+            </devopenptregions>
+        </helpers>
+        <resources>
+            <devopenptregions_setup>
+                <setup>
+                    <module>Devopensource_PortugalRegions</module>
+                </setup>
+            </devopenptregions_setup>
+        </resources>
+    </global>
+</config>

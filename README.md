@@ -13,8 +13,9 @@ Create regions for portugal.
 * modgit clone git@github.com:DevopensourceTeam/Devopensource_PortugalRegions.git
 
 ## Configuration
-<img src="https://imageshack.com/i/eyAF4279j" alt="Regions code for shipping table rate" />
-<img src="https://imageshack.com/i/ipwumNgOp" alt="Regions in checkout" />
+
+[Regions code for shipping table rate](https://imageshack.com/i/eyAF4279j "egions code for shipping table rate")
+[Regions in checkout](https://imageshack.com/i/ipwumNgOp "Regions in checkout")
 
 ## Changelog
 Grid for admin all regions

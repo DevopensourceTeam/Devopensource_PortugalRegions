@@ -14,8 +14,8 @@ Create regions for portugal.
 
 ## Configuration
 
-[Regions code for shipping table rate](https://imageshack.com/i/eyAF4279j "egions code for shipping table rate")
-[Regions in checkout](https://imageshack.com/i/ipwumNgOp "Regions in checkout")
+* [Regions code for shipping table rate](https://imageshack.com/i/eyAF4279j "egions code for shipping table rate")
+* [Regions in checkout](https://imageshack.com/i/ipwumNgOp "Regions in checkout")
 
 ## Changelog
 Grid for admin all regions

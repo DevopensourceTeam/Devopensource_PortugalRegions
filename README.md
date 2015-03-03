@@ -14,5 +14,10 @@ Create regions for portugal.
 * modgit init .
 * modgit clone git@github.com:DevopensourceTeam/Devopensource_PortugalRegions.git
 
+## Configuration
+
+![Regions code for shipping table rate](https://imageshack.com/i/eyAF4279j)
+![Regions in checkout](https://imageshack.com/i/ipwumNgOp)
+
 ## Changelog
 Grid for admin all regions

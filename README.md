@@ -12,7 +12,7 @@ Create regions for portugal.
 ## How to Install
 
 * modgit init .
-* modgit clone git@github.com:DevopensourceTeam/TaxVatNumber.git
+* modgit clone git@github.com:DevopensourceTeam/Devopensource_PortugalRegions.git
 
 ## Changelog
 Grid for admin all regions

@@ -7,7 +7,7 @@ Create regions for portugal.
 ## Requirements
 
 * Magento 1.4 - 1.7
-* Modgit installerd
+* Modgit installed ( [Install modgit](https://github.com/jreinke/modgit "Install modgit")  ) 
 
 ## How to Install
 
